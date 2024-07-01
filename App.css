@@ -1,0 +1,13 @@
+.table{
+    background: #fff;
+}
+.table .items{
+    background: #FAFAFA;
+}
+.table .items:hover{
+    background: #EEEEEE;
+}
+
+.Mui-selected{
+    background-color: #EFF5FF !important;
+}
